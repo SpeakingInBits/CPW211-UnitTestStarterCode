@@ -2,4 +2,4 @@
 
 ## Requirements
 - Visual Studio 2022
-- .NET 6
+- .NET 8
